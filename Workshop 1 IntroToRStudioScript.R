@@ -48,7 +48,7 @@ View(Gradient) # displays the imported data as a spreasheet
 # 4. The 'Size' varaible is a factor with two level ('Large', 'Small') indicating different site sizes
 
 # We need the charactor fields to be a factor classes to use many of the R functions
-# so we'll change that using the as.factor command
+# so we'll change that using the as.factor command.git add 
 
 Gradient$Site <- as.factor(Gradient$Site # change the Site variable to a factor
 Gradient$Size <- as.factor(Gradient$Size) # change the Size variable to a factor
