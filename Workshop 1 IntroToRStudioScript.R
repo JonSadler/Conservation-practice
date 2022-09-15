@@ -1,6 +1,7 @@
+
 # *************************************************************************
 # This is the source script for Workshop 1: An introduction to R and R Studio *
-# JPS Feb 28th 2022
+# JPS Feb 28th 2022 [modified for git 15 Sept 2022]
 # Filename: IntroToRStudioScript.R
 #
 #  **********************************
